@@ -1,1 +1,9 @@
-deny from all
+Order Deny,Allow
+Deny from 192.192.192.292
+Deny from 192.192.192.292
+Deny from 192.192.192.292
+Deny from 192.192.192.292
+Deny from 192.192.192.292
+Deny from 192.192.192.292
+Deny from 192.192.192.292
+Deny from 192.192.192.292
